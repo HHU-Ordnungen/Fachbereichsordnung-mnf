@@ -2,6 +2,8 @@
 
 == DER HEINRICH-HEINE UNIVERSITÄT DÜSSELDORF VOM 7.11.2017
 
+include::util::disclaimer.adoc[]
+
 NOTE: Aufgrund der https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=28364&anw_nr=2&aufgehoben=N&det_id=643690[§§ 2 Abs. 4 Satz 1], https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=28364&anw_nr=2&aufgehoben=N&det_id=643719[26 Abs. 3] des Gesetzes über die Hochschulen des Landes NordrheinWestfalen (Hochschulgesetz- HG) vom 16. September 2014 (GV NRW S. 547) hat die Heinrich-Heine Universität Düsseldorf die folgende Ordnung erlassen:
 
 === § 1 Organisation
